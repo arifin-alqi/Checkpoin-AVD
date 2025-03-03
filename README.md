@@ -1,7 +1,9 @@
 # Checkpoin-KVD
 
 NAMA : Muhammad Arifin Alqi. AB
+
 NIM : 2409116106
+
 Matkul : Analitik dan Visualisasi data
 
 LINK TUGAS KVD:
