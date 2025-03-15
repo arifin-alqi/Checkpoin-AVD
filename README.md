@@ -11,3 +11,6 @@ https://colab.research.google.com/drive/1rVp9gvbKXBglkKIyNPOMvrQqpYGcYEkC?usp=sh
 
 LINK TUGAS AVD CHECK POIN 2:
 https://colab.research.google.com/drive/1rVp9gvbKXBglkKIyNPOMvrQqpYGcYEkC?usp=sharing#scrollTo=lG3evs3HYuIQ
+
+LINK TUGAS AVD CHECK POIN 3:
+https://colab.research.google.com/drive/1rVp9gvbKXBglkKIyNPOMvrQqpYGcYEkC?usp=sharing#scrollTo=Vw7NhAsi-311
